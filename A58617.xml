@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the kingdome of Scotland, concerning the present expedition into England according to the commission and order of the Convention of Estates, from their meeting at Edinburgh, August 1643.</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58617</idno>
+            <idno type="STC">Wing S1219</idno>
+            <idno type="STC">ESTC R235648</idno>
+            <idno type="EEBO-CITATION">13142491</idno>
+            <idno type="OCLC">ocm 13142491</idno>
+            <idno type="VID">97994</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58617)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97994)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 751:3 or 778:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the kingdome of Scotland, concerning the present expedition into England according to the commission and order of the Convention of Estates, from their meeting at Edinburgh, August 1643.</title>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>This item appears at reels 751:3 and 778:6.</note>
+                  <note>Reproduction of originals in Duke University Library and Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  History --  Sources.</term>
+               <term>Solemn League and Covenant (1643)</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97994:1"/>
+            <pb facs="tcp:97994:1" rendition="simple:additions"/>
+            <p>THE DECLARATION OF THE KINGDOME OF SCOTLAND, CONCERNING The preſent Expedition into <hi>England,</hi> according to the Commiſſion and Order of the Convention of Eſtates, from their meeting at Edinburgh, Auguſt 1643.</p>
+            <p>EDINBURGH, Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſtie. 1643.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:97994:2"/>
+            <p>THe Committee of the Eſtates of the Kingdome of Scotland, Ordaines the following Declaration to be forth<g ref="char:EOLhyphen"/>with printed both in Engliſh and La<g ref="char:EOLhyphen"/>tine.</p>
+            <bibl>
+               <hi>Archbald Primeroſe.</hi>
+            </bibl>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="1" facs="tcp:97994:2"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+               </figure>The DECLARATION of the Kingdome of SCOTLAND.</head>
+            <p>IT is now, we ſuppoſe, known to the Chriſtian world, and will be known to after ages, what have been the dangers and diſtreſſes of this Kirk and King<g ref="char:EOLhyphen"/>dome, in their Religion and Liberties; What their endeavours and wreſtlings have been for deliverance, and how mercifully and mar<g ref="char:EOLhyphen"/>vellouſly the good hand of God did ſettle their Religi<g ref="char:EOLhyphen"/>on
+<pb n="2" facs="tcp:97994:3"/>and Peace, againſt the devices, attempts and practi<g ref="char:EOLhyphen"/>ces of Papiſts, Prelates and Malignants: who, had they not been given up to incurable blindneſſe and hardneſſe of heart, would have ſeen and acknowledged the hand of God working againſt them, and themſelves fighting againſt God. But theſe enemies of all righteouſneſſe, full of all ſubtilty and miſchief, do not ceaſe to pervert the right wayes of the Lord. Their great project and main deſigne againſt the Reformed Religion and Peo<g ref="char:EOLhyphen"/>ple of God, is not altered, but continueth one and the ſame: their furie and malice is not abated, and their plots and policies deeper, and more wicked then be<g ref="char:EOLhyphen"/>fore; onely finding their fraud fruſtrated, and their forces beaten back upon one ſide; they have with new ſtratagems, freſh reſolutions, and greater power, aſſaul<g ref="char:EOLhyphen"/>ted another part of the wall, and have made the breach ſo wide and large, that they have entred, and begun to roare in the midſt of the Congregations of Gods Peo<g ref="char:EOLhyphen"/>ple, and are ſetting up their Enſignes for Signes, which to the unſpeakable grief of all who are not both void of Grace, and deprived of naturall affection, is to be ſeen this day in miſerable <hi>Ireland,</hi> and diſtreſſed <hi>England;</hi> and, unleſſe it be prevented by their timeous and ſpeedy deliverance, ſhall (wee know not how ſoon) be ſeen and felt in this Kingdome; where, as the ene<g ref="char:EOLhyphen"/>mies did begin, ſo ſhall they end this bloudy, barba<g ref="char:EOLhyphen"/>rous, and Anti-chriſtian tragedie, if the Authors be not interrupted and driven from the Stage, before they bring it to their intended concluſion and helliſh ap<g ref="char:EOLhyphen"/>plauſe.</p>
+            <p>It is wee confeſſe, no ſmall comfort to this Kirk and Kingdome, that we have been willing and ready by
+<pb n="3" facs="tcp:97994:3"/>all good means from the beginning, to quench this un<g ref="char:EOLhyphen"/>naturall fire; all who have had place and publick inte<g ref="char:EOLhyphen"/>reſt, the Lords of his Majeſties privie Councell, the Commiſsioners for conſerving the peace, and the Ge<g ref="char:EOLhyphen"/>nerall Aſſembly of this Kirk and their Commiſsioners, having with all care and faithfulneſſe applyed them<g ref="char:EOLhyphen"/>ſelves from time to time, to uſe all good means; ſuch as are their humble deſires, their Supplications, Decla<g ref="char:EOLhyphen"/>rations and Remonſtrances to his Majeſty for a bleſſed Pacification: And after all theſe had proved ineffectu<g ref="char:EOLhyphen"/>all, Commiſsioners were ſent to repreſent, how much this Kirk and Kingdome from their intereſt in the pre<g ref="char:EOLhyphen"/>ſervation of their own Religion, the ſafety of his Ma<g ref="char:EOLhyphen"/>jeſties Perſon, and their near relation to their Brethren of <hi>England,</hi> were concerned in the unhappy differences, betwixt his Majeſtie and the houſes of Parliament, and in all humility and tenderneſſe, to make offer of their mediation and nationall interceſsion, for removing them in ſuch a way as might moſt ſerve for his Maje<g ref="char:EOLhyphen"/>ſties honour, and the good of his people; but after long attendance, much contrary to their deſires and hopes, and to the expectation of all his Majeſties good Subjects in both Kingdomes (ſo prevalent were the Counſels of the Popiſh Prelaticall, and malignant par<g ref="char:EOLhyphen"/>ty, apprehending their own troubles and miſery, in the publick peace and happineſſe of the King and his Peo<g ref="char:EOLhyphen"/>ple) the offer of their humble ſervice and faithfull en<g ref="char:EOLhyphen"/>deavours, was utterly refuſed and rejected, upon no o<g ref="char:EOLhyphen"/>ther reaſon, but that they had no warrant nor capacity for ſuch a mediation, although authorized by a Com<g ref="char:EOLhyphen"/>miſsion from his Majeſtie and Parliament for that ef<g ref="char:EOLhyphen"/>fect; and that the intermixture of the government of
+<pb n="4" facs="tcp:97994:4"/>the Church of <hi>England</hi> with the civill government, was ſuch a myſterie as could not be underſtood by them; although it be true which was then often reply<g ref="char:EOLhyphen"/>ed, that in the eighth demand of the Treaty of Peace, the deſire of uniformity in Kirk-government was kind<g ref="char:EOLhyphen"/>ly entertained, and received ſuch an anſwer, as hath been ſince a door of hope to this Kirk and Kingdome of obtaining their deſires; and although the Houſes of Parliament, who are beſt acquainted with the conſtitu<g ref="char:EOLhyphen"/>tion of that Kingdome, and whom it moſt concerned, have paſſed their Bill, for aboliſhing of Epiſcopall go<g ref="char:EOLhyphen"/>vernment, not onely as a great impediment to the per<g ref="char:EOLhyphen"/>fect Reformation and growth of Religion (which in a Chriſtian Kingdome is a ſufficient ground) but al<g ref="char:EOLhyphen"/>ſo, as very prejudiciall to the civill State and Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>The Commiſsioners having returned from <hi>Oxford</hi> without ſucceſſe, and the miſeries of <hi>Ireland,</hi> the troubles of <hi>England,</hi> and the dangers and preſſures of this Kingdome more and more increaſing; the Lords of his Majeſties Councell, the Commiſſioners for con<g ref="char:EOLhyphen"/>ſerving the Peace, and the Commiſsioners for the Com<g ref="char:EOLhyphen"/>mon burthens, all intruſted with the publike affairs of the Kingdome reſpectively, found themſelves preſſed above their place and power, with difficulties, which required the Common Counſell, conſent and reſolution of the Eſtates of the Kingdome, and were neceſſitate according to the practice of former times (his Majeſty having denied a Parliament, being ſupplicated for that effect) to call a Convention of the Eſtates, that by their wiſedome they might conſider of the Common duty, and provide for the publick ſafety of the King<g ref="char:EOLhyphen"/>dome,
+<pb n="5" facs="tcp:97994:4"/>in a time of ſuch extremity. No ſooner did the Convention of Eſtates, which was met with more then ordinary frequency and alacrity, enter into publick con<g ref="char:EOLhyphen"/>ſultation, but the good providence of God ſtill watch<g ref="char:EOLhyphen"/>ing over this Countrey for good, did bring to their hand, a diſcovery of divers treacherous attempts, a<g ref="char:EOLhyphen"/>gainſt the Kirk and Kingdome; as if the Convention had been called to receive Information of the dangers, and to provide remedies, for the ſafety of the publick. Like as the dangers diſcovered unto them, were made publikely known, and with the advice of the Commiſsi<g ref="char:EOLhyphen"/>oners of the Generall Aſſembly, the remedies alſo were a greed upon, and publiſhed in print.</p>
+            <p>Amongſt theſe remedies a chief one was, to conſider of the renewing of a League and Aſſociation with <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> for defence of Religion, and the mutuall peace of the Kingdomes againſt the common Enemy, and how farre the ſame might be extended againſt Prelacie and Popiſh Ceremonies for uniformity in Kirk-govern<g ref="char:EOLhyphen"/>ment, and the externall Worſhip of God, as is more fully expreſſed in the Remonſtrance of the remedies of the dangers of Religion. But before the Convention of Eſtates had entred upon this grave conſideration Commiſsioners came from both Houſes of the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> warranted and authorized to pro<g ref="char:EOLhyphen"/>pound their deſires of the ſame union and ſtrait Conjun<g ref="char:EOLhyphen"/>ction of the two Nations, againſt Papiſts, and Prelates, with their adherents; and to conſider with the Eſtates of this Kingdome, of ſuch Articles or Propoſitions, as might make the aſſiſtance and union betwixt the two Nations more beneficiall and effectuall for the common ſecurity of Religion and Libertie. Upon the manifeſta<g ref="char:EOLhyphen"/>tion
+<pb n="6" facs="tcp:97994:5"/>of this concourſe of the ſtrong inclinations and de<g ref="char:EOLhyphen"/>ſires of the Eſtates of both Kingdomes, with which the Generall Aſſembly, did moſt unanimouſly and heartily joyne their deſires, counſels, and prayers, a Committee of the Convention of Eſtates, and a Committee of the Generall Aſſembly, were appointed to meet with the Comiſsioners of the Houſes of Parliament, for conſi<g ref="char:EOLhyphen"/>dering the beſt and readieſt wayes, by which theſe com<g ref="char:EOLhyphen"/>mon deſires and conceptions might be ripened and brought forward toward perfection, and (if it were poſ<g ref="char:EOLhyphen"/>ſible) to birth and action, for the comfort of both King<g ref="char:EOLhyphen"/>domes, in Religion and Peace. Theſe three Commit<g ref="char:EOLhyphen"/>tees after ſome meetings for debate and deliberation, did reſolve in end, that, according to the commendable pra<g ref="char:EOLhyphen"/>ctice of the two Kingdomes in former times of diſtreſſe and danger, the example of the People of God in other Nations, in the like caſe; and the late example of the Kirk and Kingdome of <hi>Scotland,</hi> the beſt and moſt effectuall means for preſerving Religion, and both Kingdomes from utter ruine and deſtruction, and for procuring Peace, and all other bleſſings, were: That both Kingdomes en<g ref="char:EOLhyphen"/>ter into a ſolemne League and Covenant to be ſworne and ſubſcribed by his Majeſties Subjects of all degrees in both Kingdomes, who love the true Proteſtant, refor<g ref="char:EOLhyphen"/>med Religion, His Majeſties honour and ſafety, and their own happineſſe: And therefore they did with common conſent agree upon the fiſt lineaments and principall parts of a Covenant, to be offered to the view, and to be conſidered by the wiſedome of the full Aſſembly of the Kirk, and Convention of Eſtates, which, how ſoon it was preſented unto them, and read once and again in their audience, did ſo affect their hearts, that the
+<pb n="7" facs="tcp:97994:5"/>fire which had made them to melt in tears at the ſolem<g ref="char:EOLhyphen"/>nizing of the Nationall Covenant of this Kingdome, did begin to burn again, and bring forth the ſparkles of the like affection; and withall did fill them with confi<g ref="char:EOLhyphen"/>dence and hope, that the Lord, inclining the hearts of the Houſes of Parliament, and of the gracious and wel-affected People of <hi>England,</hi> to joyn in this Cove<g ref="char:EOLhyphen"/>nant, they will thereby finde an anſwer from Heaven to all the prayers, which they have offered up with ſtrong crying and tears, a deliverance from all their ſufferings and feares, and the beginning of a new World of joy and peace, which the Lord will create for their comfort.</p>
+            <p>But we know on the other part, upon the ſwearing and ſubſcribing of this Covenant by true Chriſtians and Patriots; the oppoſite and malignant party of Pa<g ref="char:EOLhyphen"/>piſts, Prelates, and others the ſonnes of defection and contention their adherents, will rage &amp; tumultuate more then ever before. And therefore, unleſſe we will either betray our Religion, Liberties, and Lawes, and all that we and ours do poſſeſſe, into their hands, and ſuffer our ſelves to be cut off and maſſacred by ſuch bloody and barbarous cruelty, as they have executed this time paſt in <hi>Ireland</hi> and <hi>England,</hi> there is a neceſſity of taking of Arms for mutuall defence, in the cauſe of Religion, of the Kings honour, of the liberty and peace of the Kingdomes, and of every one of us in our own private eſtate and condition. In this caſe it is moſt neceſſary, that every one againſt all doubting be perſwaded in his minde of the lawfulneſſe of his undertaking, and of the Cauſe maintained by him, which is no other, then the good of Religion in <hi>England,</hi> and the deliverance of
+<pb n="8" facs="tcp:97994:6"/>our Brethren out of the depths of affliction, the preſer<g ref="char:EOLhyphen"/>vation of our own Religion, and of our ſelves from the extremity of miſery, and the ſafety of our Native King, and his Kingdomes from deſtruction and deſo<g ref="char:EOLhyphen"/>lation: Any one of which, by all Law divine and hu<g ref="char:EOLhyphen"/>mane, is too juſt cauſe of taking of Arms, how much more when all of them are joyned in one? Whoſoever with-draweth and hideth himſelf in ſuch a debate and controverſie, let him conſider, whether he be not a ha<g ref="char:EOLhyphen"/>ter of his Brethren, againſt Chriſtian and common cha<g ref="char:EOLhyphen"/>rity; An hater of himſelf and his poſterity, againſt the law and light of nature; A hater of the King and his Kingdomes, againſt loyaltie and common duty; And a hater of God, againſt all Religion and Peace.</p>
+            <p>Concerning the firſt, The queſtion is not, nor need we diſpute, whether we may propagate our Religion by Arms, but whether, according to our power, we ought to aſsiſt our Brethren in <hi>England,</hi> who are calling for our help, and are ſhedding their blood in defence of that power, without which Religion can neither be de<g ref="char:EOLhyphen"/>fended nor reformed, nor unity of Religion with us, and other reformed Kirks, be attained, who have in the cauſe of Religion, and the like exigence, aſsiſted us and other reformed Kirks; to whom, of old and of late, we have made promiſes of the reall Declarations of all Chriſtian duty and thankfulneſſe; And who, upon our deſires and their endeavours for unity in Religion, have often warned us, that the malignant party would bend all their invention and forces to interrupt the work, and to ruine and deſtroy them in the undertaking of it, which we ſee this day come to paſſe. The queſtion is no ſooner rightly ſtated, but it is as ſoon reſolved:
+<pb n="9" facs="tcp:97994:6"/>the Lord ſave us from the curſe of <hi>Meroz, who came not to help the Lord, to help the Lord againſt the mighty:</hi> when they look upon the Cauſe which they maintain, the prayers, tears, and blood which they have poured forth, and the inſolencies and blaſphemies of the ene<g ref="char:EOLhyphen"/>mies, we cannot doubt, but enlargement and delive<g ref="char:EOLhyphen"/>verance ſhall ariſe unto <hi>England;</hi> but we have reaſon to fear, if we upon ſo fair a calling, ſit ſtill and hold our peace, this Kirk and Kingdome ſhall periſh by the hand of the ſame enemy, and there ſhall be none to deliver us: And who knows, whether the Lord hath granted us mercy, furniſhed us with men of Warre, put Wea<g ref="char:EOLhyphen"/>pons in our hands, and called this great Councell of the Eſtates, for warrant and direction for ſuch a time as this? God forbid, and be it farre from us to ſit down at eaſe (if we may promiſe to our ſelves eaſe) on this ſide of <hi>Jordan,</hi> till our Brethren be poſſeſſed in the li<g ref="char:EOLhyphen"/>berties of the Kingdome of Chriſt.</p>
+            <p>Neither concerning the ſecond, is the queſtion (as our enemies would make it) whether we ſhall enter in<g ref="char:EOLhyphen"/>to <hi>England,</hi> and lift Arms againſt our own King, who hath promiſed and done as much as may ſecure us in our Religion and Liberties; but whether againſt the Popiſh, Prelaticall, and Malignant party their adhe<g ref="char:EOLhyphen"/>rents, prevailing in <hi>England</hi> and <hi>Ireland,</hi> we be not bound to provide for our own preſervation, al<g ref="char:EOLhyphen"/>though it had not been often told us from <hi>England,</hi> and the reformed Kirks in other places, we might of our ſelves have known from our continuall experience ever ſince the time of our firſt Reformation, eſpecially after the two Kingdomes have been united under one Head and Monarch, from the Principles of our own Declara<g ref="char:EOLhyphen"/>tions,
+<pb n="10" facs="tcp:97994:7"/>in the time of our late troubles and dangers, from the vindictive diſpoſition of the enemies of this Kirk and Kingdome, which they conceive to be the fountain whence have iſſued all theſe evils, and from the grounds of common reaſon, That we cannot long like <hi>Goſhen,</hi> enjoy our light, if darkneſſe ſhall cover the face of o<g ref="char:EOLhyphen"/>ther reformed Kirks? that <hi>Juda</hi> cannot long continue in liberty, if <hi>Iſrael</hi> be led away in captivity, and that the condition of the one Kirk and Kingdome, whether in Religion or Peace, muſt be common to both? If <hi>Eng<g ref="char:EOLhyphen"/>land</hi> ſhall ſubdùe the enemies of Religion without that aſſiſtance which they call for from us at this time, what help can we expect from them in the houre of our tenta<g ref="char:EOLhyphen"/>tion, which we have deſerved, and the Lord may bring upon us when he will. God forbid, that we ſhould give them cauſe to laugh at our calamity, and mock when our fear cometh; and if they ſhall be given over into the hand of the Enemy (which God in his mercy avert) will not the enemy ſtrengthened with increaſe of power, be the more inſolent and unreſiſtable, and will not the power of <hi>England,</hi> turned into the hands of Malignants, turne alſo enemy againſt this Kirk and Kingdome, and upon ſuch pretences as be already invented, and yet (they will alledge) according to the late Treaty of Peace, within three moneths ſpace, de<g ref="char:EOLhyphen"/>nounce a Nationall Warre againſt us.</p>
+            <p>And concerning the third, the queſtion is not, whe<g ref="char:EOLhyphen"/>ther we ſhould preſume to be Arbitrators in the matters now debated by fire and ſword; betwixt his Majeſty and the Houſes of Parliament, which may ſeeme to be forraigne and extrinſecall to this Nation, and wherein we may be conceived to have no intereſt, but whether
+<pb n="11" facs="tcp:97994:7"/>our mediation and interceſſion being rejected by the one ſide, upon hope of victory; or ſuppoſe, by both ſides, upon confidence of their own ſtrength, and ſeverall ſuc<g ref="char:EOLhyphen"/>ceſſes, it be not our duty, it being in our power, to ſtop or prevent the effuſion of Chriſtian bloud? Or whe<g ref="char:EOLhyphen"/>ther we ought not to endeavour to reſcue our Native King, his Crown and Poſterity, out of the midſt of ſo many dangers, and to preſerve his People and King<g ref="char:EOLhyphen"/>dome from ruine and deſtruction? If every private man be bound in duty to interpoſe himſelf as a recon<g ref="char:EOLhyphen"/>ciler and ſequeſtrator betwixt his neighbours, armed to their mutuall deſtruction? If the ſon ought to hazard his own life for the preſeration of his father &amp; brother at variance the one againſt another? Shal a Kingdome ſit ſtill, and ſuffer their King and neighbouring Kingdome to periſh in an unnaturall warre? In the time of animo<g ref="char:EOLhyphen"/>ſitie and appetite of revenge, ſuch an interpoſing may be an irritation: But afterwards, when the eyes of the minde no more bloud-run with paſſion, do diſcerne things aright, it ſhall be no grief, nor offence of heart, but matter of thankſgiving to God, and to the Inſtru<g ref="char:EOLhyphen"/>ments which have kept from ſhedding of bloud, and from revenge.</p>
+            <p>The Covenant is now ſolemnely taken in <hi>England,</hi> and is countenanced there already from Heaven with marvellous ſucceſſe. The Propoſitions and Articles of the Treatie are with wonderfull unanimitie concluded in both Houſes of Parliament, Ceſſation of Armes is a<g ref="char:EOLhyphen"/>greed upon with the Iriſh Rebels, and they, notwith<g ref="char:EOLhyphen"/>ſtanding all the barbarous and unparalleld crueltie ex<g ref="char:EOLhyphen"/>erciſed by them upon the Proteſtants and people of God in that Kingdome, honoured with the title of his
+<pb n="12" facs="tcp:97994:8"/>Majeſties Subjects: It is therefore now high time for all true-hearted Scottiſh men, and good Patriots abroad, eſpecially ſuch as upon fair and plauſible pretences have been formerly miſtaken or ſeduced to take arms againſt this Cauſe of God and Religion, timely to remember their Nationall Covenant, and ſeriouſly to bethink themſelves of the duty, which, by ſo manifold Obliga<g ref="char:EOLhyphen"/>tions they owe to their Religion and Native Countrey in this time of ſo great diſtreſſe and danger to both: leſt deſpiſing or neglecting this our warning and intimati<g ref="char:EOLhyphen"/>on, they either periſh by wilfull perſiſting in their own wayes againſt God, their Countrey, and Covenant, or come too late, and there be no place left for repentance. It is alſo moſt neceſſary for all good people of all ranks and degrees within the Kingdome, to deny themſelves and their own eaſe, or what earthly thing is deareſt unto them, to lift up their eyes and behold the Work of God unto which they are called, and with heart and hand to joyn in this ſo religious, ſo juſt, and ſo neceſſary Expe<g ref="char:EOLhyphen"/>dition, and which upon the truth of God, our own late, comfortable, and never to be forgotten experience, and the prayers of the people of God, we may be aſſured, will in end, againſt all difficulties and opoſition, be crow<g ref="char:EOLhyphen"/>ned with ſuch ſucceſſe, as may be honour to God, con<g ref="char:EOLhyphen"/>fuſion to his preſumptuous and incorrigible enemies, propagation to the true Religion, and comfort to all the unfeigned lovers of truth and peace, which againſt all ca<g ref="char:EOLhyphen"/>lumnie and contradiction hath been, is, and ſhall be the ſumme of our deſires.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:97994:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
